@@ -1,0 +1,29 @@
+{
+  "name": "sudoku",
+  "version": "1.0.0",
+  "description": "Sudoku game using vanilla javascript. Gulp and SASS ready.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/django18/Sass-NPM-Ready.git"
+  },
+  "keywords": [
+    "sass",
+    "javascript",
+    "npm",
+    "gitignore"
+  ],
+  "author": "Avinash Dangi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/django18/Sass-NPM-Ready/issues"
+  },
+  "homepage": "https://github.com/django18/Sass-NPM-Ready#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}

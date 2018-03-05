@@ -13,7 +13,7 @@ Run in folder location and you are ready to code in sass with a well designed 1-
 
 Run the gulp task in the comand line :
 ```
-gulp compile:sass
+npm run compile:sass
 ```
 
 Add more packages by using npm install command :
